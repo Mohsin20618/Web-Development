@@ -1,0 +1,16 @@
+#b{
+    width: 600px;
+    height:300px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    width: 80px;
+    height: 30px;
+    margin-left: 20px;
+}
+#btnd{
+    margin-top: 20px;
+    margin-left: 190px;
+}

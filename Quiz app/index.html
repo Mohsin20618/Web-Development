@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+ 
+
+</head>
+<body>
+    <span class="nav">
+        <h1>MasonQuiz.com</h1>
+        <h1 id="em"></h1>
+  
+</span>
+    <div class="main">
+        <div class="inner-in">
+            <span class="timer">
+                <h2  class="quest">Question is here</h2>
+                <span class="time" >
+                    <h2 id="min" class="qt">4</h2>
+                    <h2 class="qt">:</h2>
+                    <h2 id="sec" class="qt">59</h2>
+                </span>
+               
+            </span>
+        
+            <ul>
+                <li>
+                    <input type="radio" name="answer" id="a1" class="answer">
+                    <label for="a1" id="op1">option 1</label>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <input type="radio" name="answer" id="a2" class="answer">
+                    <label for="a2" id="op2">option 2</label>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <input type="radio" name="answer" id="a3" class="answer">
+                    <label for="a3" id="op3">option 3</label>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <input type="radio" name="answer" id="a4" class="answer">
+                    <label for="a4" id="op4">option 4</label>
+                </li>
+            </ul>
+            <button id="sub">Submit</button>
+        </div>
+    </div>
+    <script>
+        var h=localStorage.getItem('name')
+        console.log(name)
+    </script>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Noto Sans",sans-serif;
+font-weight: 300;
+}
+.nav{
+    padding: 1rem;
+    background-color: black;
+    color: white;
+    display: flex;
+}
+#em{
+    margin-left: 60rem;
+}
+.timer{
+    display: flex;
+}
+.time{
+    display: flex;
+    margin-left: 10rem;
+}
+.main{
+    width: 100vw;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background-color: hsl(211, 72%, 81%) ;
+   
+} 
+
+.inner{
+    width: 60%;
+    background-color: white;
+    padding: 30px 80px;
+    border-radius: 10px;
+   
+}
+.inner-in{
+    width: 60%;
+    background-color: white;
+    padding: 30px 80px;
+    border-radius: 10px;
+ 
+}
+h2{
+    font-size: 30px;
+    font-weight: 500;
+    margin: 10px 0px 30px 0px  ;
+}
+li{
+    font-size: 20px;
+    margin-top: 15px;
+    list-style: none   ;
+}
+li input{
+    cursor: pointer;
+}
+button{
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    display: block;
+    margin: auto;
+    text-transform: uppercase;
+    color: white;
+    background-color: #54a0ff;
+    margin-top: 40px;
+}
+button:hover{
+    background-color: #2e86de;
+}
+.sup{
+    width: 20rem;
+    padding: 0.3rem;
+    border-radius: 10px;
+    border-style: solid;
+    margin-top: 1rem;
+}
+#name{
+    margin-left: 40px;
+}
+#email{
+    margin-left: 45px;
+}
+#pass{
+    margin-left: 20px;
+}
+#hs{
+    display: grid;
+    place-items: center;
+    margin: 1rem 0rem 1rem 0rem;
+    font-weight: 600;
+}
+.slash{
+    margin: 20px 0px 0px 120px;
+   color:gray;
+}
+.slash a{
+    text-decoration: none;
+    color: hsl(4°, 5%, 91%);
+    color:blue;
+}
+#rh{
+    display: grid;
+    place-items: center;
+    margin: 1rem 0rem 1rem 0rem;
+    font-weight: 600;
+}

@@ -1,0 +1,114 @@
+div.a{
+    background-color: rgb(36, 35, 34);
+    padding-top: 5px;
+    padding-bottom: 5px;
+   
+    
+}
+div.a a{
+    text-decoration: none;
+    padding-left: 40px;
+    padding-right: 40px;
+    color:gray;
+    font-size: large;
+}
+div.a nav{
+    
+text-align: center;
+}
+div.b{
+    background-color: rgb(52, 137, 235);
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+div.b a{
+    
+    text-decoration: none;
+    color: whitesmoke;   
+}
+div.c{
+    background-color:rgb(242, 245, 243);
+    text-align: center;
+}
+div.c a{
+    text-decoration: none;
+    color: rgb(17, 161, 250);
+}
+div.c p{
+    margin: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+div.d a{
+    text-align: center;
+
+}
+div.d{
+    background-color: rgb(250, 252, 251);
+    
+
+}
+div.d a{
+
+text-align: center;
+text-decoration: none;
+display: grid;
+place-items: center;
+
+}
+
+h1.h1{
+    color: black;
+    font-size: 60px;
+    margin: 8px;
+   
+   
+}
+p.c{
+    color: black;
+    font-size: 30px;
+    margin: 8px;
+    
+}
+p#a{
+    color: gray;
+    margin: 8px;
+    font-size: 18px;
+}
+p.b{
+    color: rgb(17, 161, 250);
+    font-size: 20px;
+    margin: 8px;
+   
+}
+div.e{
+    background-color: black;
+    display: grid;
+    place-items: center;
+
+}
+div.e h1{
+    color: white;
+    font-size: 60px;
+    margin: 8px;
+}
+p#bl{
+    color: white;
+    font-size: 30px;
+    margin: 8px;
+}
+div.e a{
+    text-decoration: none;
+    text-align: center;
+}
+div.f{
+    display: grid;
+    place-items: center;
+}
+div.f a{
+    text-align: center;
+    text-decoration: none;
+}
+

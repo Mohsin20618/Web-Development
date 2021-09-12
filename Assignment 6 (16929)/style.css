@@ -1,0 +1,77 @@
+.a{
+    background-color: white;
+    margin-left: 5%;
+}
+#image{
+    margin-bottom: 0%;
+}
+ .b{
+  
+    text-decoration: none;
+    color: rgb(63, 59, 59);
+    padding: 2%;
+    
+}
+.c{
+    padding: 2%;
+    text-decoration: none;
+    color: rgb(63, 59, 59);;   
+}
+span{
+    margin-left: 34%;
+}
+.size{
+    padding: 1%;
+}
+.d{
+    background-color: black;
+    height: 45px;
+}
+body{
+    margin: 0%;
+}
+.e{
+  padding-top: 1%;
+  padding-left: 6%;
+}
+.f{
+    color: cornsilk;
+    padding: 1%;
+    text-decoration: none;
+}
+.pos{
+    position: relative;
+}
+.pos1{
+    position: absolute;
+    top: 4%;
+    left: 10%;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.btn{
+    padding: 2%;
+    background-color: purple;
+}
+.btn:hover{
+ background-color: rgb(173, 230, 230);    
+}
+.in{
+    margin-left: 4%;
+    margin-right: 9%;
+}
+.hr{
+    margin-right: 5%;
+}
+td{
+    padding-left: 78px;
+}
+
+
+
+
+
+
+
+
